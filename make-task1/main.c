@@ -9,5 +9,5 @@ void foo1()
 
 int main()
 {
-
+    foo1();
 }
